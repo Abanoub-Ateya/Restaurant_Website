@@ -3,7 +3,7 @@
 RoboEat is a responsive, multi-page restaurant website built as a graduation project for **Robogarden** Frontend Development course. The platform showcases modern web layouts, interactive UI elements, and input validation.
 
 ## 🚀 Live Demo
-You can view the live project hosted on GitHub Pages here: **[Insert Your GitHub Pages Link Here]**
+You can view the live project hosted on GitHub Pages here: **https://abanoub-ateya.github.io/Restaurant_Website/**
 
 ---
 
